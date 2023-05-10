@@ -4,5 +4,5 @@ SendMode Input  ; Recommended for new scripts due to its superior speed and reli
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #IfWinActive Autodesk Revit
 ^+F:: ; CTRL + Shift + F
-Run, C:\Users\Gabor\Documents\RevitDev\FinishSelectionRevit\bin\Release\net7.0\FinishSelectionRevit.exe
+Run, C:\FinishSelectionRevit.exe
 return
