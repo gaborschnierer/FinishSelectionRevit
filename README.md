@@ -11,3 +11,5 @@ Feel free to cutomize the .ahk file including exe file path or hotkey using note
 
 Based on the forum solution of naveen.kumar.t
 [Autodesk forums - Clicking a Button in Another Application](https://forums.autodesk.com/t5/revit-api-forum/shortcut-for-finish-button-from-uidocument-selection-pickobjects/m-p/8972899)
+
+Do you want to extend it? Check the [Wiki](https://github.com/gaborschnierer/FinishSelectionRevit/wiki) for some more info.
