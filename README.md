@@ -3,7 +3,7 @@ An application clicking the Finish Selection button in Revit and an Autohotkey s
 ## How to use
 1) Download the [latest release](https://github.com/gaborschnierer/FinishSelectionRevit/releases/latest)
 1) Save the exe and the ahk file to to c:\ (alternative location is possible, but you have to modify the ahk file accordingly using notepad)
-2) Download [Autohotkey](https://www.autohotkey.com/)
+2) Download and install [Autohotkey](https://www.autohotkey.com/)
 3) Open FinishSelectionRevit.ahk which will load the script to the Windows tray
 4) When Revit prompts to finish selection, hit CTRL + Shift + F to push the button by hotkey (alternative hotkey is possible, edit the .ahk)
 
